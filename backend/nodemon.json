@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGODB_URI": "mongodb+srv://agrawalanutosh:1tQQ8jiU2jq3ef1p@cluster0.tajdcnu.mongodb.net"
+  }
+}
